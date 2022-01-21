@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@connext/vector-contracts": "^0.2.0",
-    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/contracts": "^3.4.2",
     "@poanet/solidity-flattener": "^3.0.6",
     "@superfluid-finance/ethereum-contracts": "^1.0.0-rc.1",
     "@typechain/hardhat": "^1.0.1",
